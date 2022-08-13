@@ -13,7 +13,7 @@ import javax.persistence.*;
 @Setter
 @NoArgsConstructor
 
-public class ContatosModel {
+public class ContatosM {
 
     @Id
     private Long id;
